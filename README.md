@@ -80,3 +80,4 @@ Tested within a wordpress site against:
 		Motorola Droid X
 		Samsung Galaxy Tab 10.1
 
+v2
